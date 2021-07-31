@@ -73,7 +73,7 @@ function incrementQuestionNumber() {
 }
 
 function getImage(path) {
-    path = 'images/' + path;
+    path = 'Images/' + path;
     return '<img src = ' + path + ' alt="Image not found" height=700px width=700px/>';
 }
 
