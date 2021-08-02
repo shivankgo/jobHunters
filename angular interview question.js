@@ -35,6 +35,16 @@ let questionsList = [
         link: 'https://angular.io/guide/built-in-directives',
         video: openUrl("https://www.youtube.com/watch?v=-jeoyDJDsSM#t=8m8s", "video"),
         photo: getImage('What_are_directives.jpeg')
+    },
+    {
+        question: 'What are different kinds of directives ?',
+        textAns:
+         'There are three different kinds of directives:<br>'+
+         '<b>STRUCTURAL DIRECTIVES:</b><br>'+
+         '',
+        link: 'https://angular.io/guide/built-in-directives',
+        video: openUrl("https://www.youtube.com/watch?v=-jeoyDJDsSM#t=8m8s", "video"),
+        photo: getImage('What_are_directives.jpeg')
     }
 
 ];
